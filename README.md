@@ -35,15 +35,16 @@
 - Página 2 com Dynamic Route e Static Generation
 - Deploy com CI/CD
 - Código com acessibilidade (a11y)
+- Utilizar TypeScript
 
 ## Restrições técnicas
 
 - Projeto deve ser 100% responsivo
 - Não utilizar nenhuma biblioteca ou framework CSS
 - Utilizar React e Redux (ou React Context) 
-- Utilizar Styled Components
+- Utilizar styled-components ou Stitches
 - Utilize sempre functional components com hooks
-- Hospedar o projeto no Netlify ou Vercel
+- Hospedar o projeto na Netlify ou Vercel
 - Layout bem estruturado, com atenção à experiência do usuário
 
 ---
